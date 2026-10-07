@@ -1,0 +1,2 @@
+"""Local TTS service component."""
+

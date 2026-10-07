@@ -1,0 +1,10 @@
+{
+  "environment": {
+    "STT_ENGINE": "sensevoice",
+    "STT_MODEL_DIR": "./models/stt",
+    "TTS_ENGINE": "cosyvoice3",
+    "TTS_MODEL_DIR": "./models/tts",
+    "COSYVOICE_SRC_DIR": "./cosyvoice-src",
+    "SPEECH_PRELOAD": "0"
+  }
+}
